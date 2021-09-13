@@ -1,0 +1,11 @@
+{
+  "TOKEN": "ODg2ODIxNjIwMTc2NTI3Mzcy.YT7K_g.C2FKgD5NsjLRTTmmxGoCK1LNn04", 
+  "YOUTUBE_API_KEY": "AIzaSyAAyLSa253vFYvpbkorKpvrHwCrzy9acFc",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PREFIX": "Mario",
+  "PRUNING": false,
+  "LOCALE": "en",
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
